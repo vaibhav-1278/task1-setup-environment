@@ -1,4 +1,3 @@
-# task1-setup-environment
 # Task 1: Setup Development Environment
 
 ## Tools Installed
